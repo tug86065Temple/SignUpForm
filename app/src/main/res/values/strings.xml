@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name="username">Name:</string>
+    <string name="email">E-Mail:</string>
+    <string name="password">Password:</string>
+    <string name="confirm">Confirm:</string>
+    <string name="namehint">Enter your name</string>
+    <string name="emailhint">handle@domain</string>
+    <string name="passhint">8+ characters/symbols</string>
+    <string name="confirmhint">Repeat password</string>
+    <string name="button">SAVE</string>
+</resources>
